@@ -13,7 +13,7 @@
 
   I.	The Catcher in the Planet 압축파일 : 게임 실행 파일(게임 엔진이 자동으로 만들어준 HTML, CSS, JAVASCRIPT와 게임 에셋이
   모두 포함 되어있지만 게임 엔진 서버 쪽에서 로컬 실행을 막아 놓아서 실행이 안될 수 있습니다.
-  하지만(https://www.scirra.com/arcade/shooting-games/the-catcher-in-the-planet-30-36391)에 가시면 게임을 플레이 하실 수 있습니다.
+  하지만(https://www.scirra.com/arcade/shooting-games/the-catcher-in-the-planet-30-36391) 에 가시면 게임을 플레이 하실 수 있습니다.
 
   II.	코드 및 블록
 
