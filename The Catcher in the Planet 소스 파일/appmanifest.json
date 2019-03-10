@@ -1,0 +1,10 @@
+{
+	"name": "The Catcher in the Planet",
+	"short_name": "The Catcher in the Planet",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
