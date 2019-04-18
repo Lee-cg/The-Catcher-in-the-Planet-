@@ -3,7 +3,7 @@
 
 1. 개발 기간 : 2018년 8월(2주가량)
 
-2. 개발 언어 : HTML5
+2. 개발 언어 : HTML5,Javascript,CSS 
 
 3. 개발 환경 : construct 3 (https://editor.construct.net/)
 
